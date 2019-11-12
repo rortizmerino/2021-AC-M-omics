@@ -127,8 +127,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants must have acces to a computer with Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). In case of having a windos system, make sure to have access to PuTTY or otherwise install it by going to the <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">installation page</a>. Other specific software packages required can be consulted (listed <a href="#setup">below</a>).
 </p>
 
 {% comment%}
