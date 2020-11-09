@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "TU Delft Industrial design IO-PC hall 1"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Landbergstraat 15, 2628 CE Delft"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Online"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Check brightspace for Zoom link"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "NL"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "52.001757"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4.369944"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Nov 14 - Dec 12, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:45 pm - 5:45 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-11-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-12-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Nov 12 - Dec 17, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "1:45 pm - 5:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-11-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-12-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Raúl A. Ortiz-Merino", "Marcel van den Broek", "Jean-Marc Daran"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Raúl A. Ortiz-Merino", "Marcel van den Broek"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["J.G.Daran@tudelft.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
