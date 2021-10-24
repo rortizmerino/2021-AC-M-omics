@@ -127,7 +127,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants will have acces to a computer with Windows operating system with all required software packages installed </a>).
+  <strong>Requirements:</strong> Participants will have acces to a computer with Windows operating system with all required software packages installed.
 </p>
 
 {% comment%}
